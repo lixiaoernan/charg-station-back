@@ -1,7 +1,7 @@
 # AgriCloud
 
 #### Description
-农产品管理平台
+智充管理系统
 
 #### Software Architecture
 Software architecture description
